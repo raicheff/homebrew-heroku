@@ -4,6 +4,7 @@ class Heroku < Formula
   homepage "https://github.com/raicheff/docker-heroku-cli"
   url "https://github.com/raicheff/docker-heroku-cli/archive/master.zip"
   sha256 "64c3a823f1baed909cc1be78ada31a1ca1a258bc2d709272cc0ff0eff6b27d82"
+  version "0.1.0"
 
   def install
 
